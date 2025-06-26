@@ -16,11 +16,15 @@ A console-based ATM simulator that mimics real banking operations. Users can:
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/atm-simulator.git
+   git clone https://github.com/abdelrhman-hassoba22/ATMSimulator
+```
 2. Compile the program:
+```bash
 g++ atm_simulator.cpp -o atm_simulator
+```
 3. Run the executable:
+```bash
 ./atm_simulator
-
+```
 ##Important Note
 🔑 Default password is 1234 - Use this for initial authentication
